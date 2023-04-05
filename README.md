@@ -36,6 +36,6 @@ ISP: ```pnw-gigapop.net```
 
 ### Hop IP Classes:
 
-www.amazon.com: ```A -> A -> A -> A -> A -> C -> C -> B -> B -> A -> A```
-www.google.com: ```A -> A -> A -> A -> A -> C -> A -> B -> B -> B```
-www.microsoft.com: ```A -> A -> A -> A -> A -> C -> C -> B -> B -> A -> A```
+www.amazon.com: ```A -> A -> A -> A -> A -> C -> C -> B -> B -> A -> A```  
+www.google.com: ```A -> A -> A -> A -> A -> C -> A -> B -> B -> B```  
+www.microsoft.com: ```A -> A -> A -> A -> A -> C -> C -> B -> B -> A -> A```  
