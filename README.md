@@ -18,3 +18,14 @@ The IP address did not change for a given website between pings.
 
 ## Using "traceroute"
 
+### Target Server IP Address:
+
+www.amazon.com: ```23.194.102.185```  
+www.google.com: ```142.250.217.68```  
+www.microsoft.com: ```23.36.249.251```
+
+### Hops Needed:
+
+www.amazon.com: ```11```  
+www.google.com: ```10```  
+www.microsoft.com: ```11```
