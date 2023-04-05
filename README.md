@@ -1,6 +1,6 @@
 # tcptools
 
-## Ping
+## Using "ping"
 
 ### Round-trip times:
 
@@ -15,4 +15,6 @@ There was no packet loss among any of the pings.
 ### IP address changes:
 
 The IP address did not change for a given website between pings.
+
+## Using "traceroute"
 
