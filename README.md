@@ -33,3 +33,7 @@ www.microsoft.com: ```11```
 ### Internet Service Provider Identified:
 
 ISP: ```pnw-gigapop.net```
+
+### Hop IP Classes:
+
+www.amazon.com: ```A -> A -> A -> A -> A -> C -> C -> B -> B -> A -> A```
