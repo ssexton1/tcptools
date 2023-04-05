@@ -29,3 +29,7 @@ www.microsoft.com: ```23.36.249.251```
 www.amazon.com: ```11```  
 www.google.com: ```10```  
 www.microsoft.com: ```11```
+
+### Internet Service Provider Identified:
+
+ISP: ```pnw-gigapop.net```
